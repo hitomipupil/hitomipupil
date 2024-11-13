@@ -2,8 +2,6 @@
 
 I'm a **Full-Stack Web Developer** with a passion for creating seamless and user-friendly digital experiences.
 
-I bring a unique blend of **project management experience** and **technical expertise**, allowing me to build efficient and intuitive web applications. I take pride in designing with a focus on **UI/UX**, a passion that comes from my childhood hobby of **digital illustration**.
-
 ## 🌍 Languages & Skills:
 - **Programming Languages:** JavaScript, HTML, CSS, TypeScript
 - **Frontend Frameworks:** React, Vue.js
