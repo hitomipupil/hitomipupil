@@ -28,7 +28,7 @@ Feel free to explore my repositories, contributions, and projects! If you'd like
 
 ## Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/hitomi-yamamoto/)
-- [Instagram](@hitomi_illustrations)
+- [Instagram](https://www.instagram.com/hitomi_illustrations)
 
 - [Portfolio](your-portfolio-url)
 
