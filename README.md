@@ -1,14 +1,35 @@
-<h1>Hi 👋, I'm Hitomi</h1>
-<h3>A passionate web developer from Japan</h3>
+# Hi I'm Hitomi 👋
 
-- 🔭 I’m currently working on **Something cool😎**
+I'm a **Full-Stack Web Developer** with a passion for creating seamless and user-friendly digital experiences.
 
-- 🌱 I’m currently learning **Redux, Typescript and French**
+I bring a unique blend of **project management experience** and **technical expertise**, allowing me to build efficient and intuitive web applications. I take pride in designing with a focus on **UI/UX**, a passion that comes from my childhood hobby of **digital illustration**.
 
-- 👨‍💻 All of my projects are available at [https://hitomi-portfolio.netlify.app/](https://hitomi-portfolio.netlify.app/)
+## 🌍 Languages & Skills:
+- **Programming Languages:** JavaScript, HTML, CSS, TypeScript
+- **Frontend Frameworks:** React, Vue.js
+- **Backend Technologies:** Node.js
+- **Databases:** MySQL
+- **Version Control:** Git, GitHub
+- **Project Management:** Agile
 
-- 📫 How to reach me **hitomi0727pupil@gmail.com**
+## 🎨 Design:
+- Strong eye for **UI/UX design** informed by my background in **digital illustration**.
 
+## 🌐 Languages Spoken:
+- **English:** Fluent
+- **French:** Currently learning (B1 level, progressing towards B2)
+- **Japanese:** Native
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📚 Current Learning:
+- Continuously expanding my knowledge in **full-stack development** and **web performance optimization**.
+- Working on improving my **French language skills**.
+
+Feel free to explore my repositories, contributions, and projects! If you'd like to collaborate, don't hesitate to reach out.
+
+## Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/hitomi-yamamoto/)
+- [Instagram](@hitomi_illustrations)
+
+- [Portfolio](your-portfolio-url)
+
+Thanks for visiting! 👨‍💻✨
