@@ -19,10 +19,8 @@ I'm a **Full-Stack Web Developer** with a passion for creating seamless and user
 - **Japanese:** Native
 
 ## 📚 Current Learning:
-- Continuously expanding my knowledge in **full-stack development** and **web performance optimization**.
-- Working on improving my **French language skills**.
-
-Feel free to explore my repositories, contributions, and projects! If you'd like to collaborate, don't hesitate to reach out.
+- **full-stack development** and **web performance optimization**.
+- **French language skills**.
 
 ## Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/hitomi-yamamoto/)
