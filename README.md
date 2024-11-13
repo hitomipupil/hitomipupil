@@ -15,7 +15,7 @@ I bring a unique blend of **project management experience** and **technical expe
 ## 🎨 Design:
 - Strong eye for **UI/UX design** informed by my background in **digital illustration**.
 
-## 🌐 Languages Spoken:
+## 🌐 Languages:
 - **English:** Fluent
 - **French:** Currently learning (B1 level, progressing towards B2)
 - **Japanese:** Native
