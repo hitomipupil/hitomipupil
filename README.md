@@ -26,6 +26,6 @@ I'm a **Full-Stack Web Developer** with a passion for creating seamless and user
 - [LinkedIn](https://www.linkedin.com/in/hitomi-yamamoto/)
 - [Instagram](https://www.instagram.com/hitomi_illustrations)
 
-- [Portfolio](your-portfolio-url)
+- [Portfolio](https://hitomi-portfolio.netlify.app/)
 
 Thanks for visiting! 👨‍💻✨
