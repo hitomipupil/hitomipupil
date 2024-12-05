@@ -19,7 +19,7 @@ I'm a **Full-Stack Web Developer** with a passion for creating seamless and user
 - **Japanese:** Native
 
 ## 📚 Current Learning:
-- **full-stack development** and **web performance optimization**.
+- **Full-stack development** and **web performance optimization**.
 - **French language skills**.
 
 ## Let's Connect:
