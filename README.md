@@ -2,6 +2,9 @@
 
 I'm a **Full-Stack Web Developer** with a passion for creating seamless and user-friendly digital experiences.
 
+## 🍳 Opensource Contributions:
+- **Codecademy** [Nullish Coalescing](https://www.codecademy.com/resources/docs/javascript/nullish-coalescing)
+
 ## 🌍 Languages & Skills:
 - **Programming Languages:** JavaScript, HTML, CSS, TypeScript
 - **Frontend Frameworks:** React, Vue.js
