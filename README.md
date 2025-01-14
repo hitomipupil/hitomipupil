@@ -7,7 +7,7 @@ I'm a **Full-Stack Web Developer** with a passion for creating seamless and user
 
 ## 🌍 Languages & Skills:
 - **Programming Languages:** JavaScript, HTML, CSS, TypeScript
-- **Frontend Frameworks:** React, Vue.js
+- **Frontend Frameworks:** React.js
 - **Backend Technologies:** Node.js
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
