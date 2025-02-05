@@ -1,6 +1,6 @@
 # Hi I'm Hitomi 👋
 
-I'm a **Full-Stack Web Developer** with a passion for creating seamless and user-friendly digital experiences.
+I'm a **Frontend Web Developer** with a passion for creating seamless and user-friendly digital experiences.
 
 ## 🍳 Opensource Contributions:
 - **Codecademy** [Nullish Coalescing](https://www.codecademy.com/resources/docs/javascript/nullish-coalescing), [Srict Mode](https://www.codecademy.com/resources/docs/javascript/strict-mode)
@@ -18,12 +18,12 @@ I'm a **Full-Stack Web Developer** with a passion for creating seamless and user
 
 ## 🌐 Languages:
 - **English:** Fluent
-- **French:** Currently learning (B1 level, progressing towards B2)
+- **French:** Currently learning (B2)
 - **Japanese:** Native
 
 ## 📚 Current Learning:
 - **Full-stack development** and **web performance optimization**.
-- **French language skills**.
+- **French language**.
 
 ## Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/hitomi-yamamoto/)
