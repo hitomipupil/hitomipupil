@@ -1,6 +1,6 @@
 # Hi I'm Hitomi 👋
 
-I'm a **Frontend Web Developer** with a passion for creating seamless and user-friendly digital experiences.
+I'm a **Full Stack Web Developer** with a passion for creating seamless and user-friendly digital experiences.
 
 ## 🍳 Opensource Contributions:
 - **Codecademy** [Nullish Coalescing](https://www.codecademy.com/resources/docs/javascript/nullish-coalescing), [Srict Mode](https://www.codecademy.com/resources/docs/javascript/strict-mode)
