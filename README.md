@@ -14,7 +14,7 @@ I'm a **Full Stack Web Developer** with a passion for creating seamless and user
 - **Project Management:** Agile
 
 ## 🎨 Design:
-- Strong eye for **UI/UX design** informed by my background in **digital illustration**.
+- Strong eye for **UI/UX design** informed by my background in **digital illustration**
 
 ## 🌐 Languages:
 - **English:** Fluent (C1)
@@ -23,7 +23,7 @@ I'm a **Full Stack Web Developer** with a passion for creating seamless and user
 - **Japanese:** Native
 
 ## 📚 Current Learning:
-- **Full-stack development** and **web performance optimization**.
+- **Full-stack development** and **web performance optimization**
 - **AI Prompt**
 
 ## Let's Connect:
