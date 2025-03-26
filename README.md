@@ -17,7 +17,7 @@ I'm a **Full Stack Web Developer** with a passion for creating seamless and user
 - Strong eye for **UI/UX design** informed by my background in **digital illustration**.
 
 ## 🌐 Languages:
-- **English:** Fluent
+- **English:** Fluent (C1)
 - **French:** Currently learning (B2)
 - **Italian:** Currently learning (A1)
 - **Japanese:** Native
