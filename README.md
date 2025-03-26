@@ -24,7 +24,7 @@ I'm a **Full Stack Web Developer** with a passion for creating seamless and user
 
 ## 📚 Current Learning:
 - **Full-stack development** and **web performance optimization**.
-- **French language**.
+- **AI Prompt**
 
 ## Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/hitomi-yamamoto/)
