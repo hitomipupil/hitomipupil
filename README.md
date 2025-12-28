@@ -19,7 +19,7 @@ I'm a **Full Stack Web Developer** with a passion for creating seamless and user
 
 ## 🌐 Languages:
 - **English:** Fluent (C1)
-- **French:** Currently learning (B2)
+- **French:** Conversational (B2)
 - **Japanese:** Native
 
 ## 📚 Current Learning:
