@@ -7,9 +7,10 @@ I'm a **Full Stack Web Developer** with a passion for creating seamless and user
 
 ## 🌍 Skills:
 - **Programming Languages:** JavaScript, HTML, CSS, TypeScript
-- **Frontend Frameworks:** React.js
+- **Frontend Frameworks:** React.js, Redux, Material UI
 - **Backend Technologies:** Node.js
-- **Databases:** MySQL
+- **Code Editors:** Cursor, Visual Studio Code
+- **Databases:** MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
 - **Project Management:** Agile
 
@@ -19,12 +20,10 @@ I'm a **Full Stack Web Developer** with a passion for creating seamless and user
 ## 🌐 Languages:
 - **English:** Fluent (C1)
 - **French:** Currently learning (B2)
-- **Italian:** Currently learning (A1)
 - **Japanese:** Native
 
 ## 📚 Current Learning:
-- **Full-stack development** and **web performance optimization**
-- **AI Prompt**
+- **AI Prompt optimization**
 
 ## Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/hitomi-yamamoto/)
